@@ -1,4 +1,4 @@
-package com.techand.firebaseapp
+package com.techand.firebaseapp.fcm
 
 data class NotificationData(
     val title: String,
